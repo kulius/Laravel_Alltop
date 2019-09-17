@@ -1,0 +1,573 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MultilanguageLaravelApplication\n"
+"POT-Creation-Date: 2019-08-21 08:49+0000\n"
+"PO-Revision-Date: 2019-08-21 08:49+0000\n"
+"Last-Translator: James Translator <james@translations.colm>\n"
+"Language-Team: James Translator <james@translations.colm>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_i;_s;gettext;_n:1,2;ngettext:1,2;dgettext:2\n"
+"X-Poedit-Basepath: ../../../../../app\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: Http\n"
+"X-Poedit-SearchPath-1: ../resources/views\n"
+"X-Poedit-SearchPath-2: Console\n"
+"X-Poedit-SearchPath-3: ../storage/framework/messages/\n"
+
+#: ../resources/views/m06110/index.blade.php:17
+#: ../resources/views/m06120/index.blade.php:12
+#: ../storage/framework/messages/89185f2f8166f5ee053a03ff320c7083addabb54.php.php:18
+#: ../storage/framework/messages/f9b93552a2ca3814b090dd2c640e4f59f5e056e3.php.php:13
+msgid "部門代號"
+msgstr ""
+
+#: ../resources/views/m06110/index.blade.php:18
+#: ../resources/views/m06110/view.blade.php:28
+#: ../resources/views/m06120/index.blade.php:13
+#: ../resources/views/m06120/view.blade.php:13
+#: ../storage/framework/messages/89185f2f8166f5ee053a03ff320c7083addabb54.php.php:19
+#: ../storage/framework/messages/934bf1eee72643fd44c389085f0c807a43ad8e3c.php.php:29
+#: ../storage/framework/messages/f9b93552a2ca3814b090dd2c640e4f59f5e056e3.php.php:14
+#: ../storage/framework/messages/fc3d374d61e556a4cd73c65e3be065aec725243e.php.php:14
+msgid "部門名稱"
+msgstr ""
+
+#: ../resources/views/m06110/index.blade.php:19
+#: ../storage/framework/messages/89185f2f8166f5ee053a03ff320c7083addabb54.php.php:20
+msgid "啟用日期"
+msgstr ""
+
+#: ../resources/views/m06110/index.blade.php:20
+#: ../resources/views/m06110/view.blade.php:31
+#: ../storage/framework/messages/89185f2f8166f5ee053a03ff320c7083addabb54.php.php:21
+#: ../storage/framework/messages/934bf1eee72643fd44c389085f0c807a43ad8e3c.php.php:32
+msgid "成立目的"
+msgstr ""
+
+#: ../resources/views/m06110/index.blade.php:21
+#: ../resources/views/m06120/index.blade.php:15
+#: ../resources/views/m06120/view.blade.php:28
+#: ../resources/views/m06130/index_1.blade.php:13
+#: ../resources/views/m06130/index_2.blade.php:12
+#: ../resources/views/m06130/view.blade.php:26
+#: ../resources/views/m06140/index.blade.php:22
+#: ../resources/views/m06150/index.blade.php:21
+#: ../resources/views/m06160/index.blade.php:31
+#: ../resources/views/s01101/index_1.blade.php:22
+#: ../resources/views/s01101/index_2.blade.php:15
+#: ../resources/views/s01201/index.blade.php:19
+#: ../storage/framework/messages/00e32818efef65dcb4fd6454bbdba0fd1b603824.php.php:32
+#: ../storage/framework/messages/05a53335b9a6fe954b27e9367a3cf84b5d15a6ea.php.php:22
+#: ../storage/framework/messages/5991007fa66a380df04c6313f2453655a31c3437.php.php:13
+#: ../storage/framework/messages/6dfad92da5dcf45522f16ff1cbbf12dc890133a2.php.php:12
+#: ../storage/framework/messages/70d2ea1ff103ba2ffb7c68dda1984d604d819ffb.php.php:20
+#: ../storage/framework/messages/807b2cb7d51232eb7ee6914f12e6988e4a180d42.php.php:22
+#: ../storage/framework/messages/89185f2f8166f5ee053a03ff320c7083addabb54.php.php:22
+#: ../storage/framework/messages/9a31a5e822cf7b264f3c8258eb1c499b3584aed3.php.php:28
+#: ../storage/framework/messages/aca45632a1d82e1bb73e3c625da9099ba6f202bb.php.php:23
+#: ../storage/framework/messages/d7ad5fccfccac7c856a65e2bd07f4950108b26d9.php.php:15
+#: ../storage/framework/messages/e129df8fba2917d4d027a03a1becb41901d41aae.php.php:27
+#: ../storage/framework/messages/f9b93552a2ca3814b090dd2c640e4f59f5e056e3.php.php:16
+#: ../storage/framework/messages/fc3d374d61e556a4cd73c65e3be065aec725243e.php.php:29
+msgid "功能"
+msgstr ""
+
+#: ../resources/views/m06110/view.blade.php:27
+#: ../resources/views/m06120/view.blade.php:12
+#: ../storage/framework/messages/934bf1eee72643fd44c389085f0c807a43ad8e3c.php.php:28
+#: ../storage/framework/messages/fc3d374d61e556a4cd73c65e3be065aec725243e.php.php:13
+msgid "部門編號"
+msgstr ""
+
+#: ../resources/views/m06110/view.blade.php:29
+#: ../storage/framework/messages/934bf1eee72643fd44c389085f0c807a43ad8e3c.php.php:30
+msgid "啟用日期（起始）"
+msgstr ""
+
+#: ../resources/views/m06110/view.blade.php:30
+#: ../storage/framework/messages/934bf1eee72643fd44c389085f0c807a43ad8e3c.php.php:31
+msgid "啟用日期（結束）"
+msgstr ""
+
+#: ../resources/views/m06120/index.blade.php:14
+#: ../storage/framework/messages/f9b93552a2ca3814b090dd2c640e4f59f5e056e3.php.php:15
+msgid "虛擬部門"
+msgstr ""
+
+#: ../resources/views/m06120/view.blade.php:24
+#: ../resources/views/m06120/view2.blade.php:32
+#: ../storage/framework/messages/420924672dddc2fdcc91c4fd592e2b4b6f35152a.php.php:33
+#: ../storage/framework/messages/fc3d374d61e556a4cd73c65e3be065aec725243e.php.php:25
+msgid "簽核代號"
+msgstr ""
+
+#: ../resources/views/m06120/view.blade.php:25
+#: ../storage/framework/messages/fc3d374d61e556a4cd73c65e3be065aec725243e.php.php:26
+msgid "職務名稱"
+msgstr ""
+
+#: ../resources/views/m06120/view.blade.php:26
+#: ../resources/views/m06120/view2.blade.php:34
+#: ../storage/framework/messages/420924672dddc2fdcc91c4fd592e2b4b6f35152a.php.php:35
+#: ../storage/framework/messages/fc3d374d61e556a4cd73c65e3be065aec725243e.php.php:27
+msgid "所屬人員"
+msgstr ""
+
+#: ../resources/views/m06120/view.blade.php:27
+#: ../storage/framework/messages/fc3d374d61e556a4cd73c65e3be065aec725243e.php.php:28
+msgid "身分別"
+msgstr ""
+
+#: ../resources/views/m06120/view2.blade.php:33
+#: ../resources/views/m06130/view_grid.blade.php:48
+#: ../storage/framework/messages/420924672dddc2fdcc91c4fd592e2b4b6f35152a.php.php:34
+#: ../storage/framework/messages/7b76826eb42623292cce121dd494637805f6f856.php.php:49
+msgid "職稱選擇"
+msgstr ""
+
+#: ../resources/views/m06130/index_1.blade.php:10
+#: ../resources/views/m06130/view.blade.php:62
+#: ../storage/framework/messages/5991007fa66a380df04c6313f2453655a31c3437.php.php:10
+#: ../storage/framework/messages/e129df8fba2917d4d027a03a1becb41901d41aae.php.php:63
+msgid "對應表單"
+msgstr ""
+
+#: ../resources/views/m06130/index_1.blade.php:11
+#: ../resources/views/m06130/index_2.blade.php:10
+#: ../resources/views/m06130/view.blade.php:63
+#: ../resources/views/m06130/view_custom.blade.php:18
+#: ../storage/framework/messages/5991007fa66a380df04c6313f2453655a31c3437.php.php:11
+#: ../storage/framework/messages/6dfad92da5dcf45522f16ff1cbbf12dc890133a2.php.php:10
+#: ../storage/framework/messages/6f6d27185500c9c544dcdb9ddbb8233229944a2b.php.php:19
+#: ../storage/framework/messages/e129df8fba2917d4d027a03a1becb41901d41aae.php.php:64
+msgid "範本代號"
+msgstr ""
+
+#: ../resources/views/m06130/index_1.blade.php:12
+#: ../resources/views/m06130/index_2.blade.php:11
+#: ../resources/views/m06130/view.blade.php:64
+#: ../resources/views/m06130/view_custom.blade.php:19
+#: ../storage/framework/messages/5991007fa66a380df04c6313f2453655a31c3437.php.php:12
+#: ../storage/framework/messages/6dfad92da5dcf45522f16ff1cbbf12dc890133a2.php.php:11
+#: ../storage/framework/messages/6f6d27185500c9c544dcdb9ddbb8233229944a2b.php.php:20
+#: ../storage/framework/messages/e129df8fba2917d4d027a03a1becb41901d41aae.php.php:65
+msgid "範本名稱"
+msgstr ""
+
+#: ../resources/views/m06130/view.blade.php:23
+#: ../resources/views/m06140/view_2.blade.php:28
+#: ../storage/framework/messages/da443058c705b2cb278d2075d1c3d253cfa5bd8e.php.php:28
+#: ../storage/framework/messages/e129df8fba2917d4d027a03a1becb41901d41aae.php.php:24
+msgid "序"
+msgstr ""
+
+#: ../resources/views/m06130/view.blade.php:24
+#: ../storage/framework/messages/e129df8fba2917d4d027a03a1becb41901d41aae.php.php:25
+msgid "關卡資訊"
+msgstr ""
+
+#: ../resources/views/m06130/view.blade.php:25
+#: ../resources/views/m06130/view_grid.blade.php:105
+#: ../storage/framework/messages/7b76826eb42623292cce121dd494637805f6f856.php.php:106
+#: ../storage/framework/messages/e129df8fba2917d4d027a03a1becb41901d41aae.php.php:26
+msgid "關卡條件"
+msgstr ""
+
+#: ../resources/views/m06130/view_custom.blade.php:20
+#: ../storage/framework/messages/6f6d27185500c9c544dcdb9ddbb8233229944a2b.php.php:21
+msgid "範本內容"
+msgstr ""
+
+#: ../resources/views/m06130/view_grid.blade.php:23
+#: ../storage/framework/messages/7b76826eb42623292cce121dd494637805f6f856.php.php:24
+msgid "關卡類別"
+msgstr ""
+
+#: ../resources/views/m06130/view_grid.blade.php:33
+#: ../storage/framework/messages/7b76826eb42623292cce121dd494637805f6f856.php.php:34
+msgid "角色選擇"
+msgstr ""
+
+#: ../resources/views/m06130/view_grid.blade.php:41
+#: ../storage/framework/messages/7b76826eb42623292cce121dd494637805f6f856.php.php:42
+msgid "單位選擇"
+msgstr ""
+
+#: ../resources/views/m06130/view_grid.blade.php:51
+#: ../storage/framework/messages/7b76826eb42623292cce121dd494637805f6f856.php.php:52
+msgid "人員選擇"
+msgstr ""
+
+#: ../resources/views/m06130/view_grid.blade.php:57
+#: ../resources/views/m06130/view_grid.blade.php:78
+#: ../storage/framework/messages/7b76826eb42623292cce121dd494637805f6f856.php.php:58
+#: ../storage/framework/messages/7b76826eb42623292cce121dd494637805f6f856.php.php:79
+msgid "條件欄位"
+msgstr ""
+
+#: ../resources/views/m06130/view_grid.blade.php:58
+#: ../resources/views/m06130/view_grid.blade.php:79
+#: ../storage/framework/messages/7b76826eb42623292cce121dd494637805f6f856.php.php:59
+#: ../storage/framework/messages/7b76826eb42623292cce121dd494637805f6f856.php.php:80
+msgid "比對方式"
+msgstr ""
+
+#: ../resources/views/m06130/view_grid.blade.php:59
+#: ../resources/views/m06130/view_grid.blade.php:80
+#: ../storage/framework/messages/7b76826eb42623292cce121dd494637805f6f856.php.php:60
+#: ../storage/framework/messages/7b76826eb42623292cce121dd494637805f6f856.php.php:81
+msgid "條件內容"
+msgstr ""
+
+#: ../resources/views/m06140/index.blade.php:17
+#: ../storage/framework/messages/aca45632a1d82e1bb73e3c625da9099ba6f202bb.php.php:18
+msgid "表單編號"
+msgstr ""
+
+#: ../resources/views/m06140/index.blade.php:18
+#: ../resources/views/m06140/view_1.blade.php:12
+#: ../resources/views/m06160/index.blade.php:28
+#: ../storage/framework/messages/00e32818efef65dcb4fd6454bbdba0fd1b603824.php.php:29
+#: ../storage/framework/messages/aca45632a1d82e1bb73e3c625da9099ba6f202bb.php.php:19
+#: ../storage/framework/messages/f2a77377e8e5f0dfd0f8350e384d143a2e3f6139.php.php:12
+msgid "表單主旨"
+msgstr ""
+
+#: ../resources/views/m06140/index.blade.php:19
+#: ../resources/views/m06140/view_1.blade.php:9
+#: ../resources/views/m06150/index.blade.php:17
+#: ../resources/views/m06150/view.blade.php:27
+#: ../resources/views/m06160/index.blade.php:29
+#: ../storage/framework/messages/00e32818efef65dcb4fd6454bbdba0fd1b603824.php.php:30
+#: ../storage/framework/messages/807b2cb7d51232eb7ee6914f12e6988e4a180d42.php.php:18
+#: ../storage/framework/messages/aca45632a1d82e1bb73e3c625da9099ba6f202bb.php.php:20
+#: ../storage/framework/messages/d73dd02f7af8eb415e63d18ca0a171981f97aed5.php.php:28
+#: ../storage/framework/messages/f2a77377e8e5f0dfd0f8350e384d143a2e3f6139.php.php:9
+msgid "申請人員"
+msgstr ""
+
+#: ../resources/views/m06140/index.blade.php:20
+#: ../resources/views/m06140/view_1.blade.php:10
+#: ../resources/views/m06160/index.blade.php:30
+#: ../storage/framework/messages/00e32818efef65dcb4fd6454bbdba0fd1b603824.php.php:31
+#: ../storage/framework/messages/aca45632a1d82e1bb73e3c625da9099ba6f202bb.php.php:21
+#: ../storage/framework/messages/f2a77377e8e5f0dfd0f8350e384d143a2e3f6139.php.php:10
+msgid "申請日期"
+msgstr ""
+
+#: ../resources/views/m06140/index.blade.php:21
+#: ../storage/framework/messages/aca45632a1d82e1bb73e3c625da9099ba6f202bb.php.php:22
+msgid "表單狀態"
+msgstr ""
+
+#: ../resources/views/m06140/view_1.blade.php:11
+#: ../storage/framework/messages/f2a77377e8e5f0dfd0f8350e384d143a2e3f6139.php.php:11
+msgid "表單範本"
+msgstr ""
+
+#: ../resources/views/m06140/view_1.blade.php:13
+#: ../storage/framework/messages/f2a77377e8e5f0dfd0f8350e384d143a2e3f6139.php.php:13
+msgid "表單內容"
+msgstr ""
+
+#: ../resources/views/m06140/view_2.blade.php:9
+#: ../resources/views/m06140/view_2.blade.php:30
+#: ../storage/framework/messages/da443058c705b2cb278d2075d1c3d253cfa5bd8e.php.php:9
+#: ../storage/framework/messages/da443058c705b2cb278d2075d1c3d253cfa5bd8e.php.php:30
+msgid "加簽方式"
+msgstr ""
+
+#: ../resources/views/m06140/view_2.blade.php:10
+#: ../storage/framework/messages/da443058c705b2cb278d2075d1c3d253cfa5bd8e.php.php:10
+msgid "加簽關卡"
+msgstr ""
+
+#: ../resources/views/m06140/view_2.blade.php:11
+#: ../storage/framework/messages/da443058c705b2cb278d2075d1c3d253cfa5bd8e.php.php:11
+msgid "加簽人員"
+msgstr ""
+
+#: ../resources/views/m06140/view_2.blade.php:29
+#: ../storage/framework/messages/da443058c705b2cb278d2075d1c3d253cfa5bd8e.php.php:29
+msgid "簽核資訊"
+msgstr ""
+
+#: ../resources/views/m06150/index.blade.php:18
+#: ../resources/views/m06150/view.blade.php:28
+#: ../storage/framework/messages/807b2cb7d51232eb7ee6914f12e6988e4a180d42.php.php:19
+#: ../storage/framework/messages/d73dd02f7af8eb415e63d18ca0a171981f97aed5.php.php:29
+msgid "代理人員"
+msgstr ""
+
+#: ../resources/views/m06150/index.blade.php:19
+#: ../storage/framework/messages/807b2cb7d51232eb7ee6914f12e6988e4a180d42.php.php:20
+msgid "代理日期"
+msgstr ""
+
+#: ../resources/views/m06150/index.blade.php:20
+#: ../resources/views/m06150/view.blade.php:31
+#: ../resources/views/m06160/view.blade.php:31
+#: ../storage/framework/messages/55aa171e12ff7a414638fad354ec82d29653f8b9.php.php:32
+#: ../storage/framework/messages/807b2cb7d51232eb7ee6914f12e6988e4a180d42.php.php:21
+#: ../storage/framework/messages/d73dd02f7af8eb415e63d18ca0a171981f97aed5.php.php:32
+msgid "備註"
+msgstr ""
+
+#: ../resources/views/m06150/view.blade.php:29
+#: ../resources/views/m06160/view.blade.php:29
+#: ../storage/framework/messages/55aa171e12ff7a414638fad354ec82d29653f8b9.php.php:30
+#: ../storage/framework/messages/d73dd02f7af8eb415e63d18ca0a171981f97aed5.php.php:30
+msgid "代理日期（起始）"
+msgstr ""
+
+#: ../resources/views/m06150/view.blade.php:30
+#: ../resources/views/m06160/view.blade.php:30
+#: ../storage/framework/messages/55aa171e12ff7a414638fad354ec82d29653f8b9.php.php:31
+#: ../storage/framework/messages/d73dd02f7af8eb415e63d18ca0a171981f97aed5.php.php:31
+msgid "代理日期（結束）"
+msgstr ""
+
+#: ../resources/views/m06160/index.blade.php:16
+#: ../resources/views/m06160/index.blade.php:26
+#: ../storage/framework/messages/00e32818efef65dcb4fd6454bbdba0fd1b603824.php.php:17
+#: ../storage/framework/messages/00e32818efef65dcb4fd6454bbdba0fd1b603824.php.php:27
+msgid "表單類別"
+msgstr ""
+
+#: ../resources/views/m06160/index.blade.php:27
+#: ../storage/framework/messages/00e32818efef65dcb4fd6454bbdba0fd1b603824.php.php:28
+msgid "表單單號"
+msgstr ""
+
+#: ../resources/views/m06160/view.blade.php:27
+#: ../storage/framework/messages/55aa171e12ff7a414638fad354ec82d29653f8b9.php.php:28
+msgid "申請人"
+msgstr ""
+
+#: ../resources/views/m06160/view.blade.php:28
+#: ../storage/framework/messages/55aa171e12ff7a414638fad354ec82d29653f8b9.php.php:29
+msgid "代理人"
+msgstr ""
+
+#: ../resources/views/s01101/index_1.blade.php:5
+#: ../resources/views/s01101/index_1.blade.php:16
+#: ../resources/views/s01101/view_sub.blade.php:27
+#: ../resources/views/s01201/view_3.blade.php:5
+#: ../storage/framework/messages/05a53335b9a6fe954b27e9367a3cf84b5d15a6ea.php.php:5
+#: ../storage/framework/messages/05a53335b9a6fe954b27e9367a3cf84b5d15a6ea.php.php:16
+#: ../storage/framework/messages/12e86bf4c80097a9f4caa45eb97b8f2cf6705b33.php.php:5
+#: ../storage/framework/messages/63061de7d9cee4a3f428575eeadcee42110250a1.php.php:28
+msgid "所屬選單"
+msgstr ""
+
+#: ../resources/views/s01101/index_1.blade.php:17
+#: ../resources/views/s01201/view_3.blade.php:10
+#: ../storage/framework/messages/05a53335b9a6fe954b27e9367a3cf84b5d15a6ea.php.php:17
+#: ../storage/framework/messages/12e86bf4c80097a9f4caa45eb97b8f2cf6705b33.php.php:10
+msgid "功能編號"
+msgstr ""
+
+#: ../resources/views/s01101/index_1.blade.php:18
+#: ../storage/framework/messages/05a53335b9a6fe954b27e9367a3cf84b5d15a6ea.php.php:18
+msgid "功能排序"
+msgstr ""
+
+#: ../resources/views/s01101/index_1.blade.php:19
+#: ../resources/views/s01101/view_main.blade.php:30
+#: ../resources/views/s01101/view_sub.blade.php:30
+#: ../resources/views/s01201/view_3.blade.php:11
+#: ../storage/framework/messages/05a53335b9a6fe954b27e9367a3cf84b5d15a6ea.php.php:19
+#: ../storage/framework/messages/12e86bf4c80097a9f4caa45eb97b8f2cf6705b33.php.php:11
+#: ../storage/framework/messages/63061de7d9cee4a3f428575eeadcee42110250a1.php.php:31
+#: ../storage/framework/messages/d357b5cf24f9c4c60a36a870c53f5e0124e3aafa.php.php:31
+msgid "功能名稱"
+msgstr ""
+
+#: ../resources/views/s01101/index_1.blade.php:20
+#: ../resources/views/s01101/view_main.blade.php:29
+#: ../resources/views/s01101/view_sub.blade.php:29
+#: ../storage/framework/messages/05a53335b9a6fe954b27e9367a3cf84b5d15a6ea.php.php:20
+#: ../storage/framework/messages/63061de7d9cee4a3f428575eeadcee42110250a1.php.php:30
+#: ../storage/framework/messages/d357b5cf24f9c4c60a36a870c53f5e0124e3aafa.php.php:30
+msgid "功能資料夾"
+msgstr ""
+
+#: ../resources/views/s01101/index_1.blade.php:21
+#: ../resources/views/s01101/index_2.blade.php:14
+#: ../resources/views/s01101/view_main.blade.php:37
+#: ../resources/views/s01201/view_3.blade.php:12
+#: ../storage/framework/messages/05a53335b9a6fe954b27e9367a3cf84b5d15a6ea.php.php:21
+#: ../storage/framework/messages/12e86bf4c80097a9f4caa45eb97b8f2cf6705b33.php.php:12
+#: ../storage/framework/messages/d357b5cf24f9c4c60a36a870c53f5e0124e3aafa.php.php:38
+#: ../storage/framework/messages/d7ad5fccfccac7c856a65e2bd07f4950108b26d9.php.php:14
+msgid "是否顯示"
+msgstr ""
+
+#: ../resources/views/s01101/index_2.blade.php:10
+#: ../storage/framework/messages/d7ad5fccfccac7c856a65e2bd07f4950108b26d9.php.php:10
+msgid "選單編號"
+msgstr ""
+
+#: ../resources/views/s01101/index_2.blade.php:11
+#: ../storage/framework/messages/d7ad5fccfccac7c856a65e2bd07f4950108b26d9.php.php:11
+msgid "選單名稱"
+msgstr ""
+
+#: ../resources/views/s01101/index_2.blade.php:12
+#: ../storage/framework/messages/d7ad5fccfccac7c856a65e2bd07f4950108b26d9.php.php:12
+msgid "選單排序"
+msgstr ""
+
+#: ../resources/views/s01101/index_2.blade.php:13
+#: ../storage/framework/messages/d7ad5fccfccac7c856a65e2bd07f4950108b26d9.php.php:13
+msgid "所屬專案"
+msgstr ""
+
+#: ../resources/views/s01101/view_main.blade.php:27
+#: ../storage/framework/messages/d357b5cf24f9c4c60a36a870c53f5e0124e3aafa.php.php:28
+msgid "所屬模組（資料來源：參數維護）"
+msgstr ""
+
+#: ../resources/views/s01101/view_main.blade.php:28
+#: ../storage/framework/messages/d357b5cf24f9c4c60a36a870c53f5e0124e3aafa.php.php:29
+msgid "功能資料夾（編號：英數 3 碼）"
+msgstr ""
+
+#: ../resources/views/s01101/view_main.blade.php:31
+#: ../storage/framework/messages/d357b5cf24f9c4c60a36a870c53f5e0124e3aafa.php.php:32
+msgid "選單排序（預設：50）"
+msgstr ""
+
+#: ../resources/views/s01101/view_main.blade.php:34
+#: ../resources/views/s01101/view_sub.blade.php:35
+#: ../storage/framework/messages/63061de7d9cee4a3f428575eeadcee42110250a1.php.php:36
+#: ../storage/framework/messages/d357b5cf24f9c4c60a36a870c53f5e0124e3aafa.php.php:35
+msgid "顯示"
+msgstr ""
+
+#: ../resources/views/s01101/view_main.blade.php:35
+#: ../resources/views/s01101/view_sub.blade.php:36
+#: ../storage/framework/messages/63061de7d9cee4a3f428575eeadcee42110250a1.php.php:37
+#: ../storage/framework/messages/d357b5cf24f9c4c60a36a870c53f5e0124e3aafa.php.php:36
+msgid "隱藏"
+msgstr ""
+
+#: ../resources/views/s01101/view_sub.blade.php:28
+#: ../storage/framework/messages/63061de7d9cee4a3f428575eeadcee42110250a1.php.php:29
+msgid "選單編號（ex：e01001）"
+msgstr ""
+
+#: ../resources/views/s01101/view_sub.blade.php:31
+#: ../storage/framework/messages/63061de7d9cee4a3f428575eeadcee42110250a1.php.php:32
+msgid "自訂模組"
+msgstr ""
+
+#: ../resources/views/s01101/view_sub.blade.php:32
+#: ../storage/framework/messages/63061de7d9cee4a3f428575eeadcee42110250a1.php.php:33
+msgid "功能排序（預設：50）"
+msgstr ""
+
+#: ../resources/views/s01101/view_sub.blade.php:38
+#: ../storage/framework/messages/63061de7d9cee4a3f428575eeadcee42110250a1.php.php:39
+msgid "顯示/隱藏"
+msgstr ""
+
+#: ../resources/views/s01201/index.blade.php:17
+#: ../resources/views/s01201/view_1.blade.php:5
+#: ../storage/framework/messages/1a610d6c48124d8b735cb5367afd7beb50a1085a.php.php:5
+#: ../storage/framework/messages/70d2ea1ff103ba2ffb7c68dda1984d604d819ffb.php.php:18
+msgid "群組編號"
+msgstr ""
+
+#: ../resources/views/s01201/index.blade.php:18
+#: ../resources/views/s01201/view_1.blade.php:6
+#: ../storage/framework/messages/1a610d6c48124d8b735cb5367afd7beb50a1085a.php.php:6
+#: ../storage/framework/messages/70d2ea1ff103ba2ffb7c68dda1984d604d819ffb.php.php:19
+msgid "群組名稱"
+msgstr ""
+
+#: ../resources/views/s01201/view_1.blade.php:7
+#: ../storage/framework/messages/1a610d6c48124d8b735cb5367afd7beb50a1085a.php.php:7
+msgid "群組備註"
+msgstr ""
+
+#: ../resources/views/s01201/view_2.blade.php:5
+#: ../storage/framework/messages/8dc6b74cda50d314e5dc2b3805961ea325fd2f74.php.php:5
+msgid "使用者帳號"
+msgstr ""
+
+#: ../resources/views/s01201/view_2.blade.php:6
+#: ../storage/framework/messages/8dc6b74cda50d314e5dc2b3805961ea325fd2f74.php.php:6
+msgid "使用者名稱"
+msgstr ""
+
+#: ../storage/framework/messages/0c3464fef2757361970ba199033fdacaf222aab8.php.php:9
+#: ../storage/framework/messages/2c079f9330a1715b0dcaef906f14a44c53c6d604.php.php:46
+msgid "Login"
+msgstr ""
+
+#: ../storage/framework/messages/2c079f9330a1715b0dcaef906f14a44c53c6d604.php.php:31
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../storage/framework/messages/2c079f9330a1715b0dcaef906f14a44c53c6d604.php.php:49
+#: ../storage/framework/messages/6b4eae12b8701452da814082517782caeb932456.php.php:12
+msgid "Register"
+msgstr ""
+
+#: ../storage/framework/messages/2c079f9330a1715b0dcaef906f14a44c53c6d604.php.php:61
+msgid "Logout"
+msgstr ""
+
+#: ../storage/framework/messages/9a31a5e822cf7b264f3c8258eb1c499b3584aed3.php.php:13
+msgid "參數類別"
+msgstr ""
+
+#: ../storage/framework/messages/9a31a5e822cf7b264f3c8258eb1c499b3584aed3.php.php:24
+msgid "參數類型"
+msgstr ""
+
+#: ../storage/framework/messages/9a31a5e822cf7b264f3c8258eb1c499b3584aed3.php.php:25
+msgid "參數名稱（英文）"
+msgstr ""
+
+#: ../storage/framework/messages/9a31a5e822cf7b264f3c8258eb1c499b3584aed3.php.php:26
+msgid "參數內容"
+msgstr ""
+
+#: ../storage/framework/messages/9a31a5e822cf7b264f3c8258eb1c499b3584aed3.php.php:27
+msgid "參數備註"
+msgstr ""
+
+#: ../storage/framework/messages/bb80f1359754d60d3bbbfcccc3ec266d02d3e6fe.php.php:11
+msgid "Translated string"
+msgstr ""
+
+#: ../storage/framework/messages/d61c46d5df9eeff4f19c0455a5030724542e584b.php.php:6
+#: ../storage/framework/messages/d61c46d5df9eeff4f19c0455a5030724542e584b.php.php:16
+#: ../storage/framework/messages/f2f0395194e6517e537bd199f3f334ca3087f3c1.php.php:6
+#: ../storage/framework/messages/f2f0395194e6517e537bd199f3f334ca3087f3c1.php.php:9
+#: ../storage/framework/messages/f2f0395194e6517e537bd199f3f334ca3087f3c1.php.php:53
+msgid "Reset Password"
+msgstr ""
+
+#: ../storage/framework/messages/d61c46d5df9eeff4f19c0455a5030724542e584b.php.php:20
+#: ../storage/framework/messages/f2f0395194e6517e537bd199f3f334ca3087f3c1.php.php:15
+msgid "E-Mail Address"
+msgstr ""
+
+#: ../storage/framework/messages/d61c46d5df9eeff4f19c0455a5030724542e584b.php.php:36
+msgid "Send Password Reset Link"
+msgstr ""
+
+#: ../storage/framework/messages/f2f0395194e6517e537bd199f3f334ca3087f3c1.php.php:29
+msgid "Password"
+msgstr ""
+
+#: ../storage/framework/messages/f2f0395194e6517e537bd199f3f334ca3087f3c1.php.php:43
+msgid "Confirm Password"
+msgstr ""

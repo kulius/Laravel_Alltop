@@ -1,0 +1,129 @@
+.login-box,
+.register-box {
+  width: 65%;
+  height: 100%;
+  margin: 7% auto;
+}
+
+.login-box-body,
+.register-box-body {
+  height: 70vh;
+  background: #ffffff;
+  padding: 20px;
+  border-top: 0;
+  color: #666;
+}
+
+.login-board {
+  background-image:url('image/b/bg_login_board.png') !important;
+　background-repeat:no-repeat;
+}
+
+.login-page,
+.register-page {
+  background-image:url('image/b/bg_login.png') !important;
+　background-repeat:no-repeat;
+}
+
+.login-logo img {
+  content: url("image/logo_2.png");
+  display: block; 
+  margin: auto;
+  margin-top: 10%;
+  width: 70%;
+}
+
+.brand-link img {
+  content: url("image/logo_3.png");
+}
+
+
+/* 選單：樣式 */
+.sidebar-dark-primary {
+  background-image:url('image/b/bg_menu.png') !important;
+　background-repeat:no-repeat;
+}
+
+/* 選單：文字（hover） */
+.sidebar-dark-primary .user-panel a:hover {
+  color: #ffffff;
+}
+
+.sidebar-dark-primary .user-panel .status {
+  color: #C2C7D0;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.sidebar-dark-primary .user-panel .status:hover, .sidebar-dark-primary .user-panel .status:focus, .sidebar-dark-primary .user-panel .status:active {
+  color: #ffffff;
+  background: rgba(247, 247, 247, 0.1);
+}
+
+.sidebar-dark-primary .user-panel .dropdown-menu {
+  border-color: rgba(242, 242, 242, 0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.sidebar-dark-primary .user-panel .dropdown-item {
+  color: #212529;
+}
+
+.sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link:active, .sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link:focus {
+  color: #ffffff;
+}
+
+/* 選單：第一層樣式（hover）*/
+.sidebar-dark-primary .nav-sidebar > .nav-item.menu-open > .nav-link,
+.sidebar-dark-primary .nav-sidebar > .nav-item:hover > .nav-link {
+  color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* 選單：第一層樣式（active）*/
+.sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link.active {
+  color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* 選單：第二層樣式 */
+.sidebar-dark-primary .nav-sidebar > .nav-item > .nav-treeview {
+  background: #FDFFA8;
+}
+
+/* 選單：系統樣式 */
+.sidebar-dark-primary .nav-header {
+  color: #000000;
+  background: inherit;
+}
+
+.sidebar-dark-primary .sidebar a {
+  color: #000000;
+}
+
+.sidebar-dark-primary .sidebar a:hover {
+  text-decoration: none;
+}
+
+.sidebar-dark-primary .nav-treeview > .nav-item > .nav-link {
+  color: #000000;
+}
+
+/* 選單：第二層樣式（hover）*/
+.sidebar-dark-primary .nav-treeview > .nav-item > .nav-link:hover {
+  color: #ffffff;
+  background-color: #6A7F00;
+}
+
+/* 選單：第二層樣式（active）*/
+.sidebar-dark-primary .nav-treeview > .nav-item > .nav-link.active, .sidebar-dark-primary .nav-treeview > .nav-item > .nav-link.active:hover {
+  color: #ffffff;
+  background-color: #6A7F00;
+}
+
+.elevation-1, .sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-primary .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-secondary .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-secondary .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-success .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-success .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-info .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-info .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-warning .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-warning .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-danger .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-danger .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-light .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-light .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-dark .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-dark .nav-sidebar > .nav-item > .nav-link.active, .callout {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.bg-custom {
+  background-color: #FFAE07;
+}

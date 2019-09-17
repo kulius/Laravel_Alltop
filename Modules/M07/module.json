@@ -1,0 +1,14 @@
+{
+    "name": "M07",
+    "alias": "m07",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\M07\\Providers\\M07ServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

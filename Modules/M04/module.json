@@ -1,0 +1,14 @@
+{
+    "name": "M04",
+    "alias": "m04",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\M04\\Providers\\M04ServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,14 @@
+{
+    "name": "M02",
+    "alias": "m02",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\M02\\Providers\\M02ServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

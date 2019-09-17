@@ -1,0 +1,14 @@
+{
+    "name": "M06",
+    "alias": "m06",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\M06\\Providers\\M06ServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,243 @@
+@import "https://fonts.googleapis.com/css?family=Noto+Sans+TC:100,300,400,500,700,900&display=swap";
+
+p {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+/* @Menu樣式*/
+.main-sidebar {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.03);
+  position: fixed;
+  top: 0;
+  height: 100%;
+  width: 250px;
+  background-color: #1A1B24;
+  /*
+  background-image: url('image/bg.png');
+  */
+  background-position:30%;
+  z-index: 9999;
+  left: 0;
+}
+
+/* @Menu TITLE樣式*/
+.main-sidebar .sidebar-brand img {
+  content:url("image/logo.png");
+  width: 100%;
+}
+
+/* @NAVAR BAR樣式*/
+.navbar-bg {
+  content: ' ';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 115px;
+  background-color: #FF0000;
+  z-index: -1;
+}
+
+@media all and (max-width: 1024px){
+  .navbar-bg{
+    height:60px;
+  }
+}
+
+/* @登入頁面樣式*/
+.login {
+  font-size: 1.5rem;
+}
+
+.login-bg {
+  background-color: #000000;
+  /*
+  background-image: url('image/bg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  */
+}
+
+.login-logo img {
+  content: url("image/logo.png");
+  display: block;
+  margin: auto;
+  width: 70%;
+}
+
+.login-form {
+  background-color: #ffffff;
+}
+
+.login-board {
+  background-color: #ffffff;
+  /*
+  background-image: url('image/bg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  */
+}
+
+/* @Menu文字樣式：第一層 */
+.main-sidebar .sidebar-menu li a {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 50px;
+  padding: 0 20px;
+  width: 100%;
+  letter-spacing: .3px;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+/* @Menu樣式（hover）：第一層 */
+.main-sidebar .sidebar-menu li a:hover {
+  background-color: #FF0000;
+  color: #FFFFFF;
+}
+
+/* @Menu文字樣式（active）：第一層 */
+.main-sidebar .sidebar-menu li.active a {
+  color: #ffffff;
+  font-weight: 600;
+  background-color: #fcfcfd;
+}
+
+/* @Menu樣式：第二層 */
+.main-sidebar .sidebar-menu li ul.dropdown-menu {
+  padding: 0;
+  margin: 0;
+  display: none;
+  position: static;
+  float: none;
+  width: 100%;
+  box-shadow: none;
+  background-color: #1A1B24;
+}
+
+/* @Menu文字樣式：第二層 */
+.main-sidebar .sidebar-menu li ul.dropdown-menu li a {
+  color: #FFFFFF;
+  height: 35px;
+  padding-left: 65px;
+  font-weight: 400;
+}
+
+/* @Menu樣式（hover）：第二層 */
+.main-sidebar .sidebar-menu li ul.dropdown-menu li a:hover {
+  color: #FF0000;
+  background-color: inherit;
+}
+
+ /* @Menu文字樣式（active）：第二層 */
+.main-sidebar .sidebar-menu li ul.dropdown-menu li.active > a {
+  color: #FF0000;
+  font-weight: 600;
+}
+
+/* @Title ICon樣式*/
+body.sidebar-mini .main-sidebar .sidebar-brand-sm a > i {
+  font-size: 20px;
+  color: #FFFFFF
+}
+
+/* @Mini Menu樣式*/
+body.sidebar-mini .main-sidebar:after {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.03);
+  content: ' ';
+  position: fixed;
+  background-color: #1A1B24;
+  width: 65px;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  opacity: 0;
+  animation-name: mini-sidebar;
+  animation-duration: 1.5s;
+  animation-fill-mode: forwards;
+}
+
+/* @Mini Menu TITLE樣式*/
+body.sidebar-mini .main-sidebar .sidebar-menu > li ul.dropdown-menu {
+  position: absolute;
+  background-color: #FF0000;
+  left: 65px;
+  top: 10px;
+  width: 200px;
+  display: none;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.03);
+}
+
+/* @Mini Menu樣式：第二層*/
+body.sidebar-mini .main-sidebar .sidebar-menu > li ul.dropdown-menu li a {
+  height: 40px;
+  padding: 0 20px;
+  background-color: #1A1B24;
+}
+
+/* @Mini Menu樣式（active）：第一層*/
+body.sidebar-mini .main-sidebar .sidebar-menu > li.active > a {
+  box-shadow: 0 4px 8px #000000;
+  background-color: #FF0000;
+  color: #000000;
+}
+
+/* @Mini Menu文字樣式（hover）：第二層 */
+body.sidebar-mini .main-sidebar .sidebar-menu li:hover > ul.dropdown-menu li:hover > a {
+  background-color: #1A1B24;
+}
+
+
+/* @Mini Menu樣式（active）：第二層*/
+body.sidebar-mini .main-sidebar .sidebar-menu > li ul.dropdown-menu li > a:focus,
+body.sidebar-mini .main-sidebar .sidebar-menu > li ul.dropdown-menu li.active > a,
+body.sidebar-mini .main-sidebar .sidebar-menu > li ul.dropdown-menu li.active > a:hover {
+  color: #FF0000;
+  background-color: #1A1B24 !important;
+}
+
+/* @Mini Menu標記樣式（active）：第二層 */
+body.sidebar-mini .main-sidebar .sidebar-menu > li ul.dropdown-menu li.active > a:before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 25px;
+  width: 4px;
+  background-color: #FF0000;
+}
+
+/* @Menu標記樣式（active）：第一層 */
+body:not(.sidebar-mini) .sidebar-style-2 .sidebar-menu > li.active > a:before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 25px;
+  width: 4px;
+  background-color: #FF0000;
+}
+
+/* @Menu文字樣式（active）：第二層 */
+body:not(.sidebar-mini) .sidebar-style-2 .sidebar-menu li.active ul.dropdown-menu li a {
+  padding-left: 61px;
+  background-color: #1A1B24;
+}
+
+input[readonly], textarea[readonly] {
+    background-color: transparent !important;
+    border: 0 !important;
+    box-shadow: none !important;
+}
+
+.swal-rwd {
+  height: 80vh;
+  
+}
