@@ -80,7 +80,7 @@ return array(
         'eOffice' => array(
             'driver'         => 'sqlsrv',
             'url'            => '',
-            'host'           => '192.168.1.52',
+            'host'           => '61.221.242.52',
             'port'           => '1433',
             'database'       => 'eOffice_NTUE',
             'username'       => 'demo',
@@ -93,7 +93,7 @@ return array(
         'ACAD'    => array(
             'driver'         => 'sqlsrv',
             'url'            => '',
-            'host'           => '192.168.1.52',
+            'host'           => '61.221.242.52',
             'port'           => '1433',
             'database'       => 'ACAD_NTUE',
             'username'       => 'demo',
