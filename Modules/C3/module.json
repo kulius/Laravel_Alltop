@@ -1,0 +1,14 @@
+{
+    "name": "C3",
+    "alias": "c3",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\C3\\Providers\\C3ServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
